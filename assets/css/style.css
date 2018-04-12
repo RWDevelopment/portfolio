@@ -64,3 +64,6 @@ h1,h2,h3,h4 {font-family: 'Geomanist Black'}
   transform: scaleX(1);
 }
 .text {position:absolute; bottom:0px; visibility: hidden;}
+.card:hover {
+     .text {visibility: visible;;}
+}
