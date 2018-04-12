@@ -1,3 +1,4 @@
+body {font-family: 'Roboto Condensed', sans-serif;}
 h1,h2,h3,h4 {font-family: 'Geomanist Black'}
 .menu li a{font-family: 'Geomanist Book'; font-size:14px; line-height: 26px; color:#212529; text-transform:uppercase;}
 .menu li a:hover{text-decoration:none;}
