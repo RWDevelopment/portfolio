@@ -99,7 +99,7 @@
 
     function _openImage() {
       
-      var currentSrc = $(this).attr('src');
+      var currentSrc = $(this).attr('data-target');
       var winHeight = cache.$window.height();
     
       //add the image that you clicked on inside the lightbox
