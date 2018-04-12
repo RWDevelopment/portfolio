@@ -1,4 +1,4 @@
-h1,h2,h3,h4 {font-family: 'Geomanist Medium'}
+h1,h2,h3,h4 {font-family: 'Geomanist Bold'}
 .menu li a{font-family: 'Geomanist Regular'; font-size:18px; color:#212529; text-transform:uppercase;}
 .menu li a:hover{text-decoration:none;}
 @font-face { 
@@ -12,4 +12,8 @@ h1,h2,h3,h4 {font-family: 'Geomanist Medium'}
 @font-face { 
   font-family: Geomanist Medium; 
   src: url('../fonts/Geomanist-Medium.otf'); 
+}
+@font-face { 
+  font-family: Geomanist Bold; 
+  src: url('../fonts/Geomanist-Bold.otf'); 
 }
