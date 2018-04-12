@@ -16,14 +16,12 @@
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  transition: all .3s ease;
 }
 #lightbox-image-wrapper {
   width: auto;
   max-width: 100%;
   max-height: 100%;
   margin: 0 auto;
-  transition: all .3s ease;
 }
 #lightbox-wrapper {
   display: none;
@@ -37,6 +35,8 @@
 }
 #lightbox-wrapper.active {
   display: block;
+  transition: all .3s ease;
+}
 }
 .smp-lightbox {
   cursor: pointer;
