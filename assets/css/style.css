@@ -63,4 +63,4 @@ h1,h2,h3,h4 {font-family: 'Geomanist Black'}
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
-.text {position:relative; bottom:0px;}
+.text {position:absolute; bottom:0px;}
