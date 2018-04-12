@@ -1,5 +1,5 @@
 h1,h2,h3,h4 {font-family: 'Geomanist Black'}
-.menu li a{font-family: 'Geomanist Regular'; font-size:20px; color:#212529;}
+.menu li a{font-family: 'Geomanist Regular'; font-size:18px; color:#212529;}
 .menu li a:hover{text-decoration:none;}
 @font-face { 
   font-family: Geomanist Black; 
