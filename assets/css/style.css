@@ -1,1 +1,5 @@
-ghjghjgh
+h1,h2,h3,h4 {font-family: 'Geomanist Black'}
+@font-face { 
+  font-family: Geomanist Black; 
+  src: url('../fonts/Geomanist-Black.otf'); 
+}
